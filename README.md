@@ -28,6 +28,8 @@ Below is short explanation of remaining files in the project folder.
 ├── CMakeLists.txt
 ├── main
 │   ├── CMakeLists.txt
+│   ├── bsp_wifi_station.cpp
+│   ├── bsp_wifi_station.h
 │   └── main.c
 └── README.md                  This is the file you are currently reading
 ```
